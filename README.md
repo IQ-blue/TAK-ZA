@@ -1,4 +1,7 @@
 # TAK-ZA
+
+[<img src="tak-za_splash.png" width="800"/>](tak-za_splash.png)
+
 Documents relating to the TAK ecosystem
 
 Best places to host your server in South Africa?
